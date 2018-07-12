@@ -1,0 +1,16 @@
+
+build/*
+result/*
+
+.idea/
+cmake-build-debug/*
+
+*.pyc
+*.cproject
+*.project
+*.swp
+
+DS_Store
+
+analysis/*.dat
+analysis/.ipynb_checkpoints/
